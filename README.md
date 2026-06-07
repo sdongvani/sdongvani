@@ -12,7 +12,7 @@ Contact me on <a href="https://www.linkedin.com/in/sara-dongvani-navas">Linkedin
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.svg"
+      srcset="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.classic.svg"
     />
     <img
       alt="GitHub Metrics"
