@@ -11,6 +11,7 @@ Contact me on <a href="https://www.linkedin.com/in/sara-dongvani-navas">Linkedin
 </samp>
 <br><br>
 
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -21,7 +22,7 @@ Contact me on <a href="https://www.linkedin.com/in/sara-dongvani-navas">Linkedin
     src="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.svg"
   />
 </picture>
-
+</div>
 ---
 
 <samp>
