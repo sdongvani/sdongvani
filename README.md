@@ -16,7 +16,7 @@ Contact me on <a href="https://www.linkedin.com/in/sara-dongvani-navas">Linkedin
     />
     <img
       alt="GitHub Metrics"
-      src="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.svg"
+      src="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.classic.svg"
     />
   </picture>
 </div>
