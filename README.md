@@ -20,6 +20,7 @@ Contact me on <a href="https://www.linkedin.com/in/sara-dongvani-navas">Linkedin
     src="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.svg"
   />
 </picture>
+<br><br>
 ---
 <samp>
 Credits: <a href="https://github.com/sdongvani">Sara Dongvani</a><br>
