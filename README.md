@@ -1,6 +1,6 @@
 ## <samp>Hi, I am Sara.</samp>
 
-<img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="200px" align="right" hspace="10">
+<img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="200px" align="right" hspace="10" style="border: 2px solid #000; border-radius: 8px;">
 
 <samp>
 I am a student of ASIX, also known in English as Higher Technician in Computer Systems and Network Administration. <br><br>
