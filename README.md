@@ -16,10 +16,6 @@ Contact me on <a href="https://www.linkedin.com/in/sara-dongvani-navas">Linkedin
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.svg"
   />
-  <img
-    alt="a"
-    src="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.svg"
-  />
 </picture>
 </div></samp>
 
