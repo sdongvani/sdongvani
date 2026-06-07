@@ -23,6 +23,7 @@ Contact me on <a href="https://www.linkedin.com/in/sara-dongvani-navas">Linkedin
   />
 </picture>
 </div>
+
 ---
 
 <samp>
