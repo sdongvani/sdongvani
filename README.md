@@ -1,7 +1,5 @@
 ## <samp>Hi, I am Sara</samp>
-
 <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="200px" align="right" hspace="1">
-
 <samp>
 I am a student of ASIX, also known in English as Higher Technician in Computer Systems and Network Administration. <br><br>
 I am working as an intern as a helpdesk level 1, small enterprise, which means I'm a jack-of-all-trades. <br> In Spanish, todoterreno sounds better. xd. <br>
@@ -10,27 +8,21 @@ As I mentioned before, I am in level one, so it will be basic things, but I thin
 Contact me on <a href="https://www.linkedin.com/in/sara-dongvani-navas">Linkedin</a>, or <a href="mailto:sdongvaninavas@gmail.com">Send an Email</a>
 </samp>
 
-<samp><div align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.svg"
-  />
-<PICTURE>
-  name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
-
-</picture>
-</div></samp>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.svg"
+    />
+    <img
+      alt="GitHub Metrics"
+      src="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.svg"
+    />
+  </picture>
+</div>
 
 ---
-
 <samp>
 Credits: <a href="https://github.com/sdongvani">Sara Dongvani</a><br>
-Last Edited on: 07/06/2026
+Last Edited on: 08/06/2026
 </samp>
