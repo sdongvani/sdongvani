@@ -16,6 +16,15 @@ Contact me on <a href="https://www.linkedin.com/in/sara-dongvani-navas">Linkedin
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/sdongvani/sdongvani/main/metrics.svg"
   />
+<PICTURE>
+  name: Example
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes
+
 </picture>
 </div></samp>
 
