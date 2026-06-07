@@ -10,6 +10,7 @@ As I mentioned before, I am in level one, so it will be basic things, but I thin
 Contact me on <a href="https://www.linkedin.com/in/sara-dongvani-navas">Linkedin</a>, or <a href="mailto:sdongvaninavas@gmail.com">Send an Email</a>
 </samp>
 <br><br>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
